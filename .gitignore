@@ -1,0 +1,10 @@
+__init__.py
+*.jpeg
+*.zip
+*.tar*
+*.rar
+*.pyc
+.*.swp
+.#*
+#*#
+*~
