@@ -1,0 +1,1 @@
+RH_temp	DP_detector	Rh_volts	RTD_1	RTD_2	RTD_4	RTD_5	RTD_6	RTD_8	RTD_9	RTD_10	RTD_11	RTD_12	RTD_15	RTD_16	RTD_18	RTD_19	RTD_20	dwpt:RH_temp/Rh_volts
